@@ -1,3 +1,9 @@
+paintitblack-lxde-artwork (2018.3.0-1) unstable; urgency=medium
+
+  * bootstrap for 2018.3.0 
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 16 Apr 2018 00:42:03 +0200
+
 paintitblack-lxde-artwork (2016.09.04-1) unstable; urgency=medium
 
   * new bootstrap, fixed copyright, fixed VCS-fields
