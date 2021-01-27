@@ -1,4 +1,4 @@
-Source: patience-lxde-artwork
+Source: c-blues-lxde-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,14 +8,14 @@ Vcs-Browser: https://git.siduction.org/artwork/env-lxde
 Vcs-Git: https://git.siduction.org/artwork/env-lxde.git
 
 
-Package: patience-lxde-artwork
+Package: c-blues-lxde-artwork
 Architecture: all
 Depends:
  ${misc:Depends},
- patience-wallpapers,
+ c-blues-wallpapers,
  siduction-icons,
  breeze-cursor-theme
-Description: LXDE theme for Patience
- Release specific metapackage depending on patience-wallpapers
+Description: LXDE theme for c-blues
+ Release specific metapackage depending on c-blues-wallpapers
  to be used in combination with the LXDE desktop environment.
 
