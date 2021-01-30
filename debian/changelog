@@ -1,8 +1,12 @@
-c-blues-lxde-artwork (2021.1.0) UNRELEASED; urgency=medium
+c-blues-lxde-artwork (2021.1.0) unstable; urgency=medium
 
+  [ Hendrik Lehmbruch ]
   * preparing 21.1 release c-blues
 
- -- Hendrik Lehmbruch <hendrikl@siduction.org>  Wed, 27 Jan 2021 19:28:43 +0100
+  [ Torsten Wohlfarth ]
+  * build and upload for release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 30 Jan 2021 16:56:54 +0100
 
 patience-lxde-artwork (2018.3.0-1) unstable; urgency=medium
 
