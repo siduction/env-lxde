@@ -1,4 +1,4 @@
-Source: c-blues-lxde-artwork
+Source: cblues-lxde-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,14 +8,14 @@ Vcs-Browser: https://git.siduction.org/artwork/env-lxde
 Vcs-Git: https://git.siduction.org/artwork/env-lxde.git
 
 
-Package: c-blues-lxde-artwork
+Package: cblues-lxde-artwork
 Architecture: all
 Depends:
  ${misc:Depends},
- c-blues-wallpapers,
+ cblues-wallpapers,
  siduction-icons,
  breeze-cursor-theme
-Description: LXDE theme for c-blues
- Release specific metapackage depending on c-blues-wallpapers
+Description: LXDE theme for cblues
+ Release specific metapackage depending on cblues-wallpapers
  to be used in combination with the LXDE desktop environment.
 
