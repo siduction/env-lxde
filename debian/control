@@ -1,4 +1,4 @@
-Source: cblues-lxde-artwork
+Source: farewell-lxde-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,14 +8,14 @@ Vcs-Browser: https://git.siduction.org/artwork/env-lxde
 Vcs-Git: https://git.siduction.org/artwork/env-lxde.git
 
 
-Package: cblues-lxde-artwork
+Package: farewell-lxde-artwork
 Architecture: all
 Depends:
  ${misc:Depends},
- cblues-wallpapers,
+ farewell-wallpapers,
  siduction-icons,
  breeze-cursor-theme
-Description: LXDE theme for cblues
- Release specific metapackage depending on cblues-wallpapers
+Description: LXDE theme for farewell
+ Release specific metapackage depending on farewell-wallpapers
  to be used in combination with the LXDE desktop environment.
 
