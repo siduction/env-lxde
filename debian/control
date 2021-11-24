@@ -1,4 +1,4 @@
-Source: farewell-lxde-artwork
+Source: wintersky-lxde-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,14 +8,14 @@ Vcs-Browser: https://git.siduction.org/artwork/env-lxde
 Vcs-Git: https://git.siduction.org/artwork/env-lxde.git
 
 
-Package: farewell-lxde-artwork
+Package: wintersky-lxde-artwork
 Architecture: all
 Depends:
  ${misc:Depends},
- farewell-wallpapers,
+ wintersky-wallpapers,
  siduction-icons,
  breeze-cursor-theme
-Description: LXDE theme for farewell
- Release specific metapackage depending on farewell-wallpapers
+Description: LXDE theme for wintersky
+ Release specific metapackage depending on wintersky-wallpapers
  to be used in combination with the LXDE desktop environment.
 
